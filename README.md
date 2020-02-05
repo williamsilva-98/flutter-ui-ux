@@ -7,7 +7,7 @@ Flutter Modular
 
 MobX
 
-# Images From
+# Images used in this app
 
 https://www.pexels.com
 
